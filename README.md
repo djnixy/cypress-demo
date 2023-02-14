@@ -1,8 +1,8 @@
 # cypress-demo
 
-npm install -g cypress
-npm init
-npm install cypress
-npm install prettier
-
-update your package.json
+npm install -g cypress <br />
+npm init <br />
+npm install cypress <br />
+npm install prettier <br />
+<br />
+update your package.json <br />
