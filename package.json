@@ -1,0 +1,17 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "description": "Cypress Automation",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "clean": "rm -rf node_modules"
+  },
+  "author": "Niki Akbar",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.5.1",
+    "prettier": "^2.8.4"
+  }
+}
